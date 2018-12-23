@@ -1,3 +1,3 @@
 # Snail
-# Snail 2
-# snail 3
+# Teste ao GitHub
+# Pedro Oliveira, 22 Dec 2018
